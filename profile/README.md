@@ -2,7 +2,7 @@
 
 Welcome to our repo!
 
-We are a small team at Oxford University collaborating across the university. We co-design new ideas and support digital innovation by
+We are a small team collaborating across Oxford University. We co-design new ideas and support digital innovation by
 - tracking and evaluating emerging technologies
 - providing consultancy services to teams across the university
 - developing prototypes and proof of concepts to evaluate the potential of new ideas
